@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pink_primary">#EC407A</color>
+    <color name="pink_dark">#C2185B</color>
+    <color name="purple_primary">#7E57C2</color>
+    <color name="purple_light">#D1C4E9</color>
+    <color name="screen_top">#7E57C2</color>
+    <color name="screen_bottom">#EC407A</color>
+    <color name="text_dark">#2D1B3D</color>
+    <color name="text_muted">#6A5B76</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
